@@ -30,13 +30,13 @@ Check out the live demo of the YouTube Clone Application [here](https://your-dem
 
 ## Screenshots
 
-![Home Page](home.png)
+![Home Page](screenshots/home.png)
 _Screenshot 1: Home Page_
 
-![Video Playback](playback.png)
+![Video Playback](screenshots/playback.png)
 _Screenshot 2: Video Playback_
 
-![Search Feature](search.png)
+![Search Feature](screenshots/search.png)
 _Screenshot 3: Search Results_
 
 ## Getting Started
